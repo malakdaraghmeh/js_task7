@@ -1,5 +1,5 @@
 .card {
-    background-color: rgba(233, 238, 233, 0.753);
+    background-color: rgba(179, 162, 69, 0.692);
     padding: 15px 30px;
     border-radius: 5px;
     gap: 15px;
@@ -20,13 +20,13 @@
   span {
     color: #fff;
     font-size: 23px;
-    background-color: rgb(100, 80, 80);
+    background-color: rgb(99, 34, 34);
     padding: 7px 0px;
     text-align: center;
     border-radius: 5px;
   }
   
   button:hover{
-    background-color:rgb(30, 97, 30);
+    background-color:rgb(75, 153, 51);
   }
   
